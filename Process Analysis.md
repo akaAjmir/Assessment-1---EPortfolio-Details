@@ -2,6 +2,12 @@
 
 [Process Analysis](process-analysis.md) | [Business Process Modelling](business-process-modelling.md) | [RPA and Process Cybersecurity](rpa-and-process-cybersecurity.md)
 
+**Student:** [Enter name]  
+**Student number:** [Enter student number]  
+**Unit:** COIT20252 Business Process Management  
+**Tutor:** [Enter tutor name]  
+**Assessed word count:** 483 words
+
 ## Artefact 1: Week 3 process-analysis lecture
 
 **Artefact type:** Lecture screenshot  
