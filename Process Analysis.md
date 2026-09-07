@@ -1,19 +1,15 @@
 # E-portfolio 1: Process Analysis
 
-[Process Analysis](process-analysis.md) | [Business Process Modelling](business-process-modelling.md) | [RPA and Process Cybersecurity](rpa-and-process-cybersecurity.md)
+[Process Analysis](process-analysis.md) 
 
-**Student:** [Enter name]  
-**Student number:** [Enter student number]  
-**Unit:** COIT20252 Business Process Management  
-**Tutor:** [Enter tutor name]  
-**Assessed word count:** 483 words
+
 
 ## Artefact 1: Week 3 process-analysis lecture
 
 **Artefact type:** Lecture screenshot  
 **Source:** CQUniversity Moodle
 
-![Week 3 lecture slide defining process analysis and its end-to-end focus](assets/process-analysis/artefact-1.png)
+![Week 3 lecture slide defining process analysis and its end-to-end focus](assets/process-artefact-1.png)
 
 *Figure 1. Process analysis definition from the Week 3 lecture (Morshed 2026, slide 5).*
 
@@ -26,7 +22,7 @@ As I was going through this slide I realised that I had been treating analysis a
 **Artefact type:** Peer-reviewed journal article  
 **Source:** [Identification of Delays and Bottlenecks in Manufacturing Processes Through Process Mining](https://doi.org/10.56578/jii030202)
 
-![Opening section of the process-mining bottleneck study by Turgay, Demir and Eryurur](assets/process-analysis/artefact-2.png)
+![Opening section of the process-mining bottleneck study by Turgay, Demir and Eryurur](assets/process-artefact-2.png)
 
 *Figure 2. Source excerpt from the process-mining bottleneck study (Turgay, Demir & Eryürür 2025, p. 69).*
 
@@ -39,7 +35,7 @@ In particular, the study led me to consider that process data is not necessarily
 **Artefact type:** Applied case study  
 **Source:** [A case study on integrating data analysis and process mining in conventional tunnel construction](https://doi.org/10.1016/j.dibe.2025.100640)
 
-![CRISP-DM cycle used to analyse tunnel construction data](assets/process-analysis/artefact-3.png)
+![CRISP-DM cycle used to analyse tunnel construction data](assets/process-artefact-3.png)
 
 *Figure 3. CRISP-DM approach used for tunnel construction data analysis (Melnyk et al. 2025, p. 6).*
 
@@ -52,7 +48,7 @@ A manager might be under the impression of a delay when in fact there is better 
 **Artefact type:** Professional research report  
 **Source:** [Spare Parts Acquisition in the Sri Lanka Navy](https://dair.nps.edu/bitstream/123456789/5464/1/NPS-AM-26-015.pdf)
 
-![Cover of the Sri Lanka Navy procurement bottleneck report](assets/process-analysis/artefact-4.png)
+![Cover of the Sri Lanka Navy procurement bottleneck report](assets/process-artefact-4.png)
 
 *Figure 4. Cover of the procurement bottleneck research report (Kathriarachchi 2025, p. i).*
 
